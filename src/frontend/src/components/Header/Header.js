@@ -50,19 +50,19 @@ const navItems = [
   {
       name: "Courses",
       slug: "/all-courses",
-      active: authStatus,
+      active: (authStatus&& userData.registrationId!=211070007),
       currentactive:("/all-courses"===window.location.pathname)
   },
   {
     name: "Add Course",
     slug: "/add-course",
-    active: (authStatus && userData?.userrole==1),
+    active: (authStatus && userData?.userrole==1&& userData.registrationId!=211070007),
     currentactive:("/add-course"===window.location.pathname)
 },
 {
   name: "My Courses",
   slug: "/my-courses",
-  active: authStatus,
+  active: (authStatus&& userData.registrationId!=211070007),
   currentactive:("/my-courses"===window.location.pathname)
 },
 {
@@ -70,6 +70,18 @@ const navItems = [
   slug: "/hallticket",
   active: (authStatus && userData?.userrole==2),
   currentactive:("/hallticket"===window.location.pathname)
+},
+{
+  name: "Marksheet",
+  slug: "/marksheet",
+  active: (authStatus && userData?.userrole==2),
+  currentactive:("/marksheet"===window.location.pathname)
+},
+{
+  name: "Applications",
+  slug: "/applications",
+  active: (authStatus && userData?.userrole==1 && userData.registrationId===211070007 ),
+  currentactive:("/applications"===window.location.pathname)
 },
   ]
 

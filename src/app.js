@@ -122,6 +122,10 @@ import notificationRouter from './routes/notification.routes.js'
 import eventRouter from './routes/event.routes.js'
 
 import notesRouter from './routes/notes.routes.js'
+
+import applicationRouter from './routes/application.routes.js'
+
+import marksheetRouter from './routes/marksheet.routes.js'
 // route declaration
 
 
@@ -137,5 +141,8 @@ app.use('/api/v1/events',eventRouter)
 
 app.use('/api/v1/notes',notesRouter)
 
+app.use('/api/v1/applications',applicationRouter)
+
+app.use('/api/v1/marksheets',marksheetRouter)
 
 export {app}
