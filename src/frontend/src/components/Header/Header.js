@@ -71,18 +71,18 @@ const navItems = [
   active: (authStatus && userData?.userrole==2),
   currentactive:("/hallticket"===window.location.pathname)
 },
-{
-  name: "Marksheet",
-  slug: "/marksheet",
-  active: (authStatus && userData?.userrole==2),
-  currentactive:("/marksheet"===window.location.pathname)
-},
-{
-  name: "Applications",
-  slug: "/applications",
-  active: (authStatus && userData?.userrole==1 && userData.registrationId===211070007 ),
-  currentactive:("/applications"===window.location.pathname)
-},
+// {
+//   name: "Marksheet",
+//   slug: "/marksheet",
+//   active: (authStatus && userData?.userrole==2),
+//   currentactive:("/marksheet"===window.location.pathname)
+// },
+// {
+//   name: "Applications",
+//   slug: "/applications",
+//   active: (authStatus && userData?.userrole==1 && userData.registrationId===211070007 ),
+//   currentactive:("/applications"===window.location.pathname)
+// },
   ]
 
   const url = window.location.href;
