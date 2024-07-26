@@ -76,7 +76,11 @@ const createmarksheet = asyncHandler(async (req, res) => {
      const marksheet = await Marksheet.create({
         
         semester:semester,
+<<<<<<< HEAD
         marksheet:marksheetCloudinaryPath.secure_url,
+=======
+        marksheet:marksheetCloudinaryPath.url,
+>>>>>>> 8caf90163e82c91c764312885c01b2bf86ecf698
         owner:owner._id
 
      })
@@ -98,6 +102,7 @@ const createmarksheet = asyncHandler(async (req, res) => {
 
     }
 
+<<<<<<< HEAD
     const content = `Marksheet for semester-${semester} is sent by exam department `;
 
     
@@ -117,6 +122,9 @@ const createmarksheet = asyncHandler(async (req, res) => {
                 
             
         
+=======
+
+>>>>>>> 8caf90163e82c91c764312885c01b2bf86ecf698
 
 
 
