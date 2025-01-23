@@ -136,6 +136,10 @@ MyCollege is a comprehensive web application designed to cater to the essential 
 ![addevent](https://github.com/user-attachments/assets/8832f5a0-a924-423c-83fa-af8fa7c7ce13)
 ![notification](https://github.com/user-attachments/assets/74c8015a-d0c2-4d7b-9156-0b2bbf4f6c24)
 
+### Hall Ticket
+![hallticketpdf](https://github.com/user-attachments/assets/3cd254c3-358e-4c38-b713-b4400efb9927)
+![hallticket](https://github.com/user-attachments/assets/fa95979e-7629-4a3a-9b76-cc32ed790003)
+
 
 ---
 
