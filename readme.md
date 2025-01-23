@@ -99,29 +99,33 @@ MyCollege is a comprehensive web application designed to cater to the essential 
 
 ---
 
+
 ## Screenshots
 
 ### Homepage  
 ![home](https://github.com/user-attachments/assets/663c3ff1-f11e-41ef-896b-8bc9227b9263)  
 
 ### Profile Management  
-![login ](https://github.com/user-attachments/assets/8e8b346f-534d-47a4-bcb1-b3eb2e9e90a2)
+LOGIN![login ](https://github.com/user-attachments/assets/8e8b346f-534d-47a4-bcb1-b3eb2e9e90a2)
 ![ssign](https://github.com/user-attachments/assets/1c2397be-c2b5-4699-a667-8d76287d7263)
 ![tsign](https://github.com/user-attachments/assets/7fa49e47-59aa-4c1a-a664-350a3892e5e1)
 ![profile](https://github.com/user-attachments/assets/e5b67448-daf8-403d-a956-4f87187867f2)
+
+![pp](https://github.com/user-attachments/assets/5ab76848-d4c5-47c6-b1a7-4e84410c99ee)
 
 ### Courses  
 ![mycourses](https://github.com/user-attachments/assets/577fe14c-8343-461a-b453-8cb453f2c35b)
 ![course](https://github.com/user-attachments/assets/4202d8ca-c084-4ff5-ae52-2196c0834a0b)
 ![coursepage'](https://github.com/user-attachments/assets/8fe37b46-51c4-44d7-a76b-a3a5716bfc3d)
-eenshot)  ![addcourse](https://github.com/user-attachments/assets/3a4fe68b-e871-4c90-86b9-1039753c18ba)
+![addcourse](https://github.com/user-attachments/assets/3a4fe68b-e871-4c90-86b9-1039753c18ba)
 ![tcpage](https://github.com/user-attachments/assets/9f003a58-26ec-4e48-aa3b-8929a3187ec7)
 
 
 ### Events 
 ![events](https://github.com/user-attachments/assets/0e9163d6-3503-490a-b58c-1cf968b5a8c9)
-![notification](https://github.com/user-attachments/assets/74c8015a-d0c2-4d7b-9156-0b2bbf4f6c24)
 ![addevent](https://github.com/user-attachments/assets/8832f5a0-a924-423c-83fa-af8fa7c7ce13)
+![notification](https://github.com/user-attachments/assets/74c8015a-d0c2-4d7b-9156-0b2bbf4f6c24)
+
 
 ---
 
