@@ -106,10 +106,10 @@ MyCollege is a comprehensive web application designed to cater to the essential 
 ![home](https://github.com/user-attachments/assets/663c3ff1-f11e-41ef-896b-8bc9227b9263)  
 
 ### Profile Management  
-LOGIN![login ](https://github.com/user-attachments/assets/8e8b346f-534d-47a4-bcb1-b3eb2e9e90a2)
-![ssign](https://github.com/user-attachments/assets/1c2397be-c2b5-4699-a667-8d76287d7263)
-![tsign](https://github.com/user-attachments/assets/7fa49e47-59aa-4c1a-a664-350a3892e5e1)
-![profile](https://github.com/user-attachments/assets/e5b67448-daf8-403d-a956-4f87187867f2)
+**  **![login ](https://github.com/user-attachments/assets/8e8b346f-534d-47a4-bcb1-b3eb2e9e90a2)
+**  **![ssign](https://github.com/user-attachments/assets/1c2397be-c2b5-4699-a667-8d76287d7263)
+**  **![tsign](https://github.com/user-attachments/assets/7fa49e47-59aa-4c1a-a664-350a3892e5e1)
+**  **![profile](https://github.com/user-attachments/assets/e5b67448-daf8-403d-a956-4f87187867f2)
 
 ![pp](https://github.com/user-attachments/assets/5ab76848-d4c5-47c6-b1a7-4e84410c99ee)
 
