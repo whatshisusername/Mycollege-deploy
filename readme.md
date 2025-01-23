@@ -73,27 +73,7 @@ MyCollege is a comprehensive web application designed to cater to the essential 
 ---
 
 
-## Screenshots
 
-### Homepage  
-![home](https://github.com/user-attachments/assets/663c3ff1-f11e-41ef-896b-8bc9227b9263)  
-
-### Profile Management  
-![Profile Screenshot](link-to-profile-screenshot)  
-
-### Courses  
-![Courses Screenshot](link-to-courses-screenshot)  
-
-### Events  
-![Events Screenshot](link-to-events-screenshot)  
-
----
-
-## Deployed Web App
-
-Visit the live application here(open with Microsoft Edge.): [MyCollege Web App](https://mycollege-final-dp.vercel.app/)
-
----
 
 ## Key Practices and Implementation Details
 
@@ -115,7 +95,28 @@ Visit the live application here(open with Microsoft Edge.): [MyCollege Web App](
 5. **Performance and Session Management**
    - Used access tokens and refresh tokens instead of session IDs for improved performance and session security.
    - Securelocalstorage ensures persistent user login without compromising security.
+   - 
 
 ---
 
+## Screenshots
 
+### Homepage  
+![home](https://github.com/user-attachments/assets/663c3ff1-f11e-41ef-896b-8bc9227b9263)  
+
+### Profile Management  
+![Profile Screenshot](link-to-profile-screenshot)  
+
+### Courses  
+![Courses Screenshot](link-to-courses-screenshot)  
+
+### Events  
+![Events Screenshot](link-to-events-screenshot)  
+
+---
+
+## Deployed Web App
+
+Visit the live application here(open with Microsoft Edge.): [MyCollege Web App](https://mycollege-final-dp.vercel.app/)
+
+---
