@@ -103,7 +103,7 @@ MyCollege is a comprehensive web application designed to cater to the essential 
 ## Screenshots
 
 ### Homepage
-![](https://github.com/user-attachments/assets/663c3ff1-f11e-41ef-896b-8bc9227b9263|width=100)  
+![home](https://github.com/user-attachments/assets/663c3ff1-f11e-41ef-896b-8bc9227b9263)  
 
 ### Profile Management  
 ![login ](https://github.com/user-attachments/assets/8e8b346f-534d-47a4-bcb1-b3eb2e9e90a2)
