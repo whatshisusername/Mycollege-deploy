@@ -90,7 +90,7 @@ MyCollege is a comprehensive web application designed to cater to the essential 
 
 ## Deployed Web App
 
-Visit the live application here: [MyCollege Web App](https://mycollege-final-dp.vercel.app/)
+Visit the live application here(open with Microsoft Edge.): [MyCollege Web App](https://mycollege-final-dp.vercel.app/)
 
 ---
 
