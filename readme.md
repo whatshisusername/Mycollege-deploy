@@ -1,6 +1,7 @@
 # MyCollege
-
-MyCollege is a comprehensive web application designed to cater to the essential needs of college students and professors. The platform focuses on two core areas: academics and extracurricular activities. It provides tools for managing courses, events, notifications, and hall tickets, creating a centralized hub for college-related activities.
+<img src="https://github.com/user-attachments/assets/1f825b12-7a46-49da-8518-98edde1e1592" width="250" height="250">
+is a comprehensive web application designed to cater to the essential needs of college students and professors. The platform focuses on two core areas: academics and extracurricular activities. It provides tools for managing courses, events, notifications, and hall tickets, creating a centralized hub for college-related activities.
+<!-- ![mycollege-high-resolution-logo-black](https://github.com/user-attachments/assets/1f825b12-7a46-49da-8518-98edde1e1592) -->
 
 ---
 
